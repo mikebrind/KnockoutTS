@@ -19,5 +19,12 @@ $RECYCLE.BIN/
 *.lnk
 
 # =========================
-# Operating System Files
+# Folders
 # =========================
+
+bin/
+obj/
+.vs/
+.vscode/
+.git/
+*.user
